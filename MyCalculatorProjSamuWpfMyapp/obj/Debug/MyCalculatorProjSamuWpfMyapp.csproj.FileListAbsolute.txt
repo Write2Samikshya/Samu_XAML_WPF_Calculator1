@@ -1,0 +1,15 @@
+C:\Users\Samikshya\PROGRAMME\PROJECTS\WPF\MyCalculatorProjSamuWpfMyapp\MyCalculatorProjSamuWpfMyapp\bin\Debug\MyCalculatorProjSamuWpfMyapp.exe.config
+C:\Users\Samikshya\PROGRAMME\PROJECTS\WPF\MyCalculatorProjSamuWpfMyapp\MyCalculatorProjSamuWpfMyapp\bin\Debug\MyCalculatorProjSamuWpfMyapp.exe
+C:\Users\Samikshya\PROGRAMME\PROJECTS\WPF\MyCalculatorProjSamuWpfMyapp\MyCalculatorProjSamuWpfMyapp\bin\Debug\MyCalculatorProjSamuWpfMyapp.pdb
+C:\Users\Samikshya\PROGRAMME\PROJECTS\WPF\MyCalculatorProjSamuWpfMyapp\MyCalculatorProjSamuWpfMyapp\obj\Debug\MyCalculatorProjSamuWpfMyapp.csprojAssemblyReference.cache
+C:\Users\Samikshya\PROGRAMME\PROJECTS\WPF\MyCalculatorProjSamuWpfMyapp\MyCalculatorProjSamuWpfMyapp\obj\Debug\MainWindow.g.cs
+C:\Users\Samikshya\PROGRAMME\PROJECTS\WPF\MyCalculatorProjSamuWpfMyapp\MyCalculatorProjSamuWpfMyapp\obj\Debug\App.g.cs
+C:\Users\Samikshya\PROGRAMME\PROJECTS\WPF\MyCalculatorProjSamuWpfMyapp\MyCalculatorProjSamuWpfMyapp\obj\Debug\MyCalculatorProjSamuWpfMyapp_MarkupCompile.cache
+C:\Users\Samikshya\PROGRAMME\PROJECTS\WPF\MyCalculatorProjSamuWpfMyapp\MyCalculatorProjSamuWpfMyapp\obj\Debug\MyCalculatorProjSamuWpfMyapp_MarkupCompile.lref
+C:\Users\Samikshya\PROGRAMME\PROJECTS\WPF\MyCalculatorProjSamuWpfMyapp\MyCalculatorProjSamuWpfMyapp\obj\Debug\MainWindow.baml
+C:\Users\Samikshya\PROGRAMME\PROJECTS\WPF\MyCalculatorProjSamuWpfMyapp\MyCalculatorProjSamuWpfMyapp\obj\Debug\MyCalculatorProjSamuWpfMyapp.g.resources
+C:\Users\Samikshya\PROGRAMME\PROJECTS\WPF\MyCalculatorProjSamuWpfMyapp\MyCalculatorProjSamuWpfMyapp\obj\Debug\MyCalculatorProjSamuWpfMyapp.Properties.Resources.resources
+C:\Users\Samikshya\PROGRAMME\PROJECTS\WPF\MyCalculatorProjSamuWpfMyapp\MyCalculatorProjSamuWpfMyapp\obj\Debug\MyCalculatorProjSamuWpfMyapp.csproj.GenerateResource.cache
+C:\Users\Samikshya\PROGRAMME\PROJECTS\WPF\MyCalculatorProjSamuWpfMyapp\MyCalculatorProjSamuWpfMyapp\obj\Debug\MyCalculatorProjSamuWpfMyapp.csproj.CoreCompileInputs.cache
+C:\Users\Samikshya\PROGRAMME\PROJECTS\WPF\MyCalculatorProjSamuWpfMyapp\MyCalculatorProjSamuWpfMyapp\obj\Debug\MyCalculatorProjSamuWpfMyapp.exe
+C:\Users\Samikshya\PROGRAMME\PROJECTS\WPF\MyCalculatorProjSamuWpfMyapp\MyCalculatorProjSamuWpfMyapp\obj\Debug\MyCalculatorProjSamuWpfMyapp.pdb
